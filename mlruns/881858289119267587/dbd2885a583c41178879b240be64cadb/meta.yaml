@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kunda/OneDrive/Documents/Project1/mlruns/881858289119267587/dbd2885a583c41178879b240be64cadb/artifacts
+end_time: 1690111172630
+entry_point_name: ''
+experiment_id: '881858289119267587'
+lifecycle_stage: active
+run_id: dbd2885a583c41178879b240be64cadb
+run_name: nosy-mare-685
+run_uuid: dbd2885a583c41178879b240be64cadb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690111172554
+status: 4
+tags: []
+user_id: kundan

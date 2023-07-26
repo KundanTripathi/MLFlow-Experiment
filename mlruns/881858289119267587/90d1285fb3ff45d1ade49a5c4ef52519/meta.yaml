@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kunda/OneDrive/Documents/Project1/mlruns/881858289119267587/90d1285fb3ff45d1ade49a5c4ef52519/artifacts
+end_time: 1690111237233
+entry_point_name: ''
+experiment_id: '881858289119267587'
+lifecycle_stage: active
+run_id: 90d1285fb3ff45d1ade49a5c4ef52519
+run_name: charming-turtle-105
+run_uuid: 90d1285fb3ff45d1ade49a5c4ef52519
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690111229531
+status: 3
+tags: []
+user_id: kundan

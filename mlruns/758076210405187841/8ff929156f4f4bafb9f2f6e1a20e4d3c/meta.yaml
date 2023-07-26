@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/kunda/OneDrive/Documents/Project1/mlruns/758076210405187841/8ff929156f4f4bafb9f2f6e1a20e4d3c/artifacts
+end_time: 1690112018010
+entry_point_name: ''
+experiment_id: '758076210405187841'
+lifecycle_stage: active
+run_id: 8ff929156f4f4bafb9f2f6e1a20e4d3c
+run_name: Untuned_RF
+run_uuid: 8ff929156f4f4bafb9f2f6e1a20e4d3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690112013618
+status: 3
+tags: []
+user_id: kundan
